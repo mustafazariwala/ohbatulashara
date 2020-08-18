@@ -1,0 +1,24 @@
+{
+  "name": "asharaohbat",
+  "version": "1.0.0",
+  "description": "Ashara Mubarakah Ohbat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Mustafa Zariwala",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "mongoose-unique-validator": "^2.0.3",
+    "nodemailer": "^6.4.10",
+    "path": "^0.12.7",
+    "web-push": "^3.4.4"
+  }
+}
