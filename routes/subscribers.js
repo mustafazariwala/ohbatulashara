@@ -36,8 +36,8 @@ router.get('/sendNotification', (req,res,next)=> {
     
     const notificationPayload = {
         "notification": {
-            "title": "YA HUSSAIN 1000 Times | 12 Days Left (OHBATULASHARA)",
-            "body": "ذكر الحسين خير زاد الذاكرين",
+            "title": "Ashara Mubarakah 1442 - Ohbatulashara",
+            "body": "Tons of New Features! Equipped with All required guidelines during and before Ashara. Proudly announcing the fully-featured Ashara Application",
             "icon": "assets/icons/icon-72x72.png",
             "vibrate": [100, 50, 100],
             "data": {
