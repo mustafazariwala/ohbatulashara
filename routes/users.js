@@ -6,9 +6,11 @@ const fs = require('fs');
 const path = require('path')
 
 
-router.get("/try", (req,res,next)=> {
-    res.send('Hi')
-})
+// router.get("/try", (req,res,next)=> {
+//     User.find({}).then(result => {
+//         res.send(result)
+//     })
+// })
 router.post("/signup", (req,res,next)=> {
     // let emailVerificationCode = getRandomIntInclusive(100000, 999999)
     console.log('Signup')
