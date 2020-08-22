@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1598007883352,
+  "timestamp": 1598088839177,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.73e34c4f3daeb198a6a6.js",
-        "/main-es5.73e34c4f3daeb198a6a6.js",
+        "/main-es2015.9c330dc6398d30c2feae.js",
+        "/main-es5.9c330dc6398d30c2feae.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.1f913f16a2d346cc8bdc.js",
         "/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
@@ -38,6 +38,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/icons/talabulilm.png",
         "/assets/images/alam.zip",
         "/assets/images/alam1.jpg",
         "/assets/images/alam2.jpg",
@@ -84,6 +85,7 @@
     "/assets/icons/icon-512x512.png": "2767878ea2de493b092898deec48097f05a37909",
     "/assets/icons/icon-72x72.png": "4b3f7fb8688c21fcb320a2d4eb2b5e9386cd6fe1",
     "/assets/icons/icon-96x96.png": "da268c9d892f04817e97f4d4c6367eefc680abc9",
+    "/assets/icons/talabulilm.png": "aedb4c934324af6cfbecbadd16bf9a2e440fbc71",
     "/assets/images/alam.zip": "711170d455bb49abceee40c8ebd77c96cc319e4b",
     "/assets/images/alam1.jpg": "378081bda5487964ec274d763592f381168b1661",
     "/assets/images/alam2.jpg": "95f77fa4f89419a102d2d54dd48a9d919cac7820",
@@ -114,9 +116,9 @@
     "/assets/videos/selfscanning.mp4": "c5f1183d22709796420bc60d387aa2c0829511ed",
     "/assets/videos/tazyeen.mp4": "b79d355769c8606529bde69b59adf966fda9b096",
     "/favicon.ico": "334810b94f95cd3c9e4f141f379516c0b4e5564e",
-    "/index.html": "773bd1811e346bdf937b72c748f195b31dd1faca",
-    "/main-es2015.73e34c4f3daeb198a6a6.js": "255670c2e48b410a45efd827efd2ffd98a983954",
-    "/main-es5.73e34c4f3daeb198a6a6.js": "e7d503fc60a928a1e85af0217693e48cbf20800c",
+    "/index.html": "0fa524dd700c62b887c1a65a824167e53b9f5959",
+    "/main-es2015.9c330dc6398d30c2feae.js": "0ddca75d7c90378527233339fe23968b5ad2e6a7",
+    "/main-es5.9c330dc6398d30c2feae.js": "287e05f79ea902013a655b8fb1c65c070f96d9c3",
     "/manifest.webmanifest": "d8a23f665dbea9e4ecb2110de4770857f45ab8ef",
     "/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "4c46a59a04fcad729e7b2431f01c09b3d92070c4",

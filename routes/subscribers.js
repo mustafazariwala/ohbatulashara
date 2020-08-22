@@ -36,12 +36,12 @@ router.get('/sendNotification', (req,res,next)=> {
     
     const notificationPayload = {
         "notification": {
-            "title": "Ashara Mubarakah 1442 - Ohbatulashara",
-            "body": "Tons of New Features! Equipped with All required guidelines during and before Ashara. Proudly announcing the fully-featured Ashara Application",
-            "icon": "assets/icons/icon-72x72.png",
+            "title": "LIVE - Talabul ilm Istebsaar Sessions",
+            "body": "Istebsaar Session links are updated daily on OhbatulAshara.com - Select Talabul ilm  from the main menu to access these links",
+            "icon": "assets/icons/talabulilm.png",
             "vibrate": [100, 50, 100],
             "data": {
-                "url": "https://ohbatulashara.com/"
+                "url": "https://ohbatulashara.com/talabulilm"
                 // "dateOfArrival": Date.now(),
                 // "primaryKey": 1
             },
