@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1598112359044,
+  "timestamp": 1598120893105,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.34a0d03a7e4f18b1909e.js",
-        "/main-es5.34a0d03a7e4f18b1909e.js",
+        "/main-es2015.34c1a46fa8f1f0be46a4.js",
+        "/main-es5.34c1a46fa8f1f0be46a4.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.1f913f16a2d346cc8bdc.js",
         "/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
@@ -116,9 +116,9 @@
     "/assets/videos/selfscanning.mp4": "c5f1183d22709796420bc60d387aa2c0829511ed",
     "/assets/videos/tazyeen.mp4": "b79d355769c8606529bde69b59adf966fda9b096",
     "/favicon.ico": "334810b94f95cd3c9e4f141f379516c0b4e5564e",
-    "/index.html": "45d9552bf0ed30c4de55af5cc623457a28db0d55",
-    "/main-es2015.34a0d03a7e4f18b1909e.js": "4681e7891dedbd8268f63e16ff2f6c81875a9e44",
-    "/main-es5.34a0d03a7e4f18b1909e.js": "536460043418d230fa5692768b3f15440693a2e2",
+    "/index.html": "4b310494f1610db6c1df768d0bc9a7507dcab0a6",
+    "/main-es2015.34c1a46fa8f1f0be46a4.js": "7bdb00bb3399bbd219e7a3a58cb1e7a99683f36e",
+    "/main-es5.34c1a46fa8f1f0be46a4.js": "4f7a646786d944d0f9f619b84f80d3dfbddd08b4",
     "/manifest.webmanifest": "d8a23f665dbea9e4ecb2110de4770857f45ab8ef",
     "/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "4c46a59a04fcad729e7b2431f01c09b3d92070c4",
